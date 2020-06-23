@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/d-lidio/static/css/main.1509656f.chunk.css",
+    "main.js": "/d-lidio/static/js/main.137af4c0.chunk.js",
+    "main.js.map": "/d-lidio/static/js/main.137af4c0.chunk.js.map",
+    "runtime-main.js": "/d-lidio/static/js/runtime-main.b96e3d04.js",
+    "runtime-main.js.map": "/d-lidio/static/js/runtime-main.b96e3d04.js.map",
+    "static/js/2.dc5b70c2.chunk.js": "/d-lidio/static/js/2.dc5b70c2.chunk.js",
+    "static/js/2.dc5b70c2.chunk.js.map": "/d-lidio/static/js/2.dc5b70c2.chunk.js.map",
+    "index.html": "/d-lidio/index.html",
+    "precache-manifest.a00e0bc7458011395f3cf05a0686995b.js": "/d-lidio/precache-manifest.a00e0bc7458011395f3cf05a0686995b.js",
+    "service-worker.js": "/d-lidio/service-worker.js",
+    "static/css/main.1509656f.chunk.css.map": "/d-lidio/static/css/main.1509656f.chunk.css.map",
+    "static/js/2.dc5b70c2.chunk.js.LICENSE.txt": "/d-lidio/static/js/2.dc5b70c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b96e3d04.js",
+    "static/js/2.dc5b70c2.chunk.js",
+    "static/css/main.1509656f.chunk.css",
+    "static/js/main.137af4c0.chunk.js"
+  ]
+}
